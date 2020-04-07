@@ -15,17 +15,21 @@ embedding_file="/embedding.bin"
 base=("titles" "titles_with_sw" "titles_stem" "all_english" "all_english_stemmer")
 base_path=("/home/antonio/lattes/google_translate/data/")
 
+mkdir -p data
+mkdir -p embeddings
+mkdir -p logs
+mkdir -p resultados
 
 #for i in ${data[@]}
 #do
 #    script -c "python3 clear_baseww.py $data_path$i'.txt' $data_out$i'.txt'" 'logs/'$i'_clear_log.txt'
 #done
 
-#for i in ${base[@]}
-#do
-#    mkdir -p $embedding_path$i
-#    script -c "python3 embeddings.py $base_path$i'Pre.txt' $embedding_path$i/'embedding' $embedding_path$i'/accuracy.csv'" 'logs/'$i'_embedding_log.txt'
-#done
+for i in ${base[@]}
+do
+    mkdir -p $embedding_path$i
+    script -c "python3 embeddings.py $base_path$i'Pre.txt' $embedding_path$i/'embedding' $embedding_path$i'/accuracy.csv'" 'logs/'$i'_embedding_log.txt'
+done
 
 for i in ${embeddings[@]}
 do
