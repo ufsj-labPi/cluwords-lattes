@@ -1,4 +1,4 @@
-# :pick: Data Mining: Lattes database
+# Data Mining: Lattes database
 
 Recently, most traditional market services have joined online service platforms. Despite the practicality achieved, such services eventually bring a large amount of data to the Web. In this sense, data analysis, data engineering, and data science activities have become extremely necessary. In general, they can extract extra information about systems and users, allowing the owners to produce insights and analyze patterns. Then, we propose an evaluation methodology to be applied in the online scenario of registration of publications and scientific productions, such as ResearchGate and Lattes Platform of CNPq. This methodology is unsupervised and divided into three main stages:
 
