@@ -1,4 +1,5 @@
 .vscode/
 .venv/
 .ipynb_checkpoints/
-dev_preprocess.csv
+preprocess.csv
+corpus.csv
