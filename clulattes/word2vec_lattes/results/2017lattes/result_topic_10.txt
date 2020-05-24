@@ -1,0 +1,18 @@
+Topics 10
+Topics:
+periodont inflamm complic remodel leprosi urinari dysfunct childhood benign pregnant 
+lhc sqrt tev azimuth meson pion 276 z0 130 ee 
+distância energia conhecimento uso área caso desenvolvimento característica partir informação 
+lifecycl choreographi empow ict academia partnership encourag thing base scrum 
+polyethylen nanocomposit biodegrad ferroelectr methacryl chlorid tio2 dye phthalocyanin amorph 
+loci sheep coffea sorghum inbreed nematod heifer mycobacterium spp tender 
+wetland savanna estuari subtrop floodplain coast reef northeast atlant rainforest 
+NPMI:
+0.9146141651800087
+0.8536104845897221
+0.9643614118320037
+0.851424069984397
+0.9090737137920017
+0.8749243315368753
+0.9034778481999611
+avg NPMI: 0.8959 (0.0368)

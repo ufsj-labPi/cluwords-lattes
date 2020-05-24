@@ -1,5 +1,6 @@
 .vscode/
 .venv/
 .ipynb_checkpoints/
+__pycache__/
 preprocess.csv
 corpus.csv

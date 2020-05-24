@@ -1,0 +1,18 @@
+Topics 5
+Topics:
+periodont inflamm complic remodel leprosi 
+lhc sqrt tev azimuth meson 
+distância energia conhecimento uso área 
+lifecycl choreographi empow ict academia 
+polyethylen nanocomposit biodegrad ferroelectr methacryl 
+loci sheep coffea sorghum inbreed 
+wetland savanna estuari subtrop floodplain 
+NPMI:
+0.9261858140097141
+0.8721199305621326
+0.973795033472318
+0.8794131668571245
+0.9122526529804084
+0.8941448617412843
+0.9223926224246527
+avg NPMI: 0.9115 (0.0318)
