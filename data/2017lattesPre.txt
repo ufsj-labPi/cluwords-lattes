@@ -25,7 +25,6 @@ optim imag steganographi use particl swarm optim algorithm
 principl evalu strength weak floss communiti systemat mix method matur model approach
 valpodijo develop softwar support teach chilean idiom children autism spectrum disord
 refer model implement erp system analyt innov network perspect
-graph databas neo4j analysi
 petgyn 20 brazilian urban traffic plan system
 comprehens heterogen configur knowledg user studi empir studi integr time fix issu
 softwar analyt web usabl systemat map hymobweb hybrid adapt context sensit web interfac multimod support mobil devic
@@ -41,14 +40,12 @@ detect runtim normat conflict base execut scenario detect runtim normat conflict
 stabl fast model free walk arm movement humanoid robot
 lean product agribusi organ multipl case studi develop countri systemat review sr product sugarcan cultiv brazil
 indoor navig mobil augment realiti beacon technolog wheelchair user three dimension reconstruct cerebellum heart use photogrammetri techniqu methodolog optim generat virtual environ base hydroelectr power plant 3d heart reconstruct use thorac comput tomographi comput holographi applic use virtual realiti serious game 3d condit print low cost prosthes
-network issu 3d medic collabor virtual environ design applic oferta de asistencia odontológica especializada en la atención primaria de brasil norest paraíba factor associ user satisfact regard treatment offer brazilian primari health care architectur collabor virtual environ teamwork train
 coordin multi robot system imag take visual via photogrammetri ensembl base approach breast mass classif mammographi imag review locomot system robocup rescu leagu robot model solenoid valv movement reduc gap cognit robot system wizard oz vs autonom children percept chang accord robot oper condit propos graduat class human robot interact area cognit robot system speed integr result analysi human swarm interact potenti field manipul tablet humanoid robot engag platform teach languag studi effect human proxem rule human follow robot team rhs simul robot cognit system new consensus multivari model base pls ann studi sigma receptor antagonist
 assess test report phase tutori session problem base learn
 analysi salivari gland transcriptom unf partial fed amblyomma sculptum tick descript proteom saliva distinct transcript respons midgut amblyomma sculptum amblyomma aureolatum tick rickettsia rickettsii correl differ suscept infect associ short term systol blood pressur variabl carotid intima media thick elsa brasil baselin anocva softwar compar cluster group applic studi autism spectrum disord
 integr inspect system belt conveyor roller advanc enterpris architectur recogn fall surfac use mobil devic multi object approach calibr detect cervic cell nuclei
 survey intrus detect internet thing deep ip flow inspect detect beyond network anomali authorship verif appli detect compromis account onlin social network flow base intrus detect scada network use supervis learn detect mobil botnet machin learn system call analysi discov attack past behavior generat onlin hyper alert
 quantum search two dimension lattic use stagger model hamiltonian
-hippocamp subfield volum mood disord
 improv video content access proactiv d2d cach onlin social network virtual programm mobil wireless network decreas manag burden multi tier system partial correl base monitor
 explor geostatist method improv altimetri accuraci digit elev model model visual uncertainti categor spatial data use geostatist 3d planar project color fusion techniqu
 integr approach geometr model interact visual analysi grain structur
@@ -106,7 +103,6 @@ aircraft condit reliabl assess base data intens analyt new particl weight strate
 analyz public opinion brazilian polit corrupt issu appli classif method model standbi power consumpt internet thing even data analysi readi today
 design implement synchron languag éu
 compar patent scientif literatur airborn wind energi
-ambient das prática de enfermagem satisfação profission em unidad crítica haemodialysi nutrit disord hypoglycaemia critic care
 long much expect summer code particip
 agm like paraconsist belief chang
 facil leas penalti connect facil leas problem onlin multicommod connect facil locat problem general park permit problem network leas problem approxim algorithm maximum leaf forest problem
@@ -182,7 +178,6 @@ analysi spatial tempor pattern water tabl chang tool conjunct water manag upper 
 propos continu audit model data integr framework framework audit xbrl document base gri sustain guidelin fva financi virtual assist
 staff remov use imag oper learn
 semanticsco platform support semant composit servic gene express analysi
-traffic event detect use onlin social network
 test case design context awar applic yet
 scrumi board serious virtual game teach scrum framework risk manag scrum project bibliometr studi
 secur approach use sip protocol embed system mitig attack internet thing self protect architectur
@@ -213,7 +208,6 @@ conceptu framework qualiti assess manag biodivers data project climat chang thre
 spars forc map system base compress sens
 anti hypersensit effect phthalimid deriv 4methyl phenyl methylphthalimid differ pain model mice silico approach reveal higher affin 17aag leishmania hsp90 human hsp90 evalu immunolog paramet stimul leishmaniasi patient cell cd4 cd8 cell epitop proteom leishmania braziliensi
 innov data structur handl geometri nest problem
-iot radio 250 mhz
 vivo confoc raman spectroscopi molecular dynam analysi penetr retinyl acet stratum corneum
 hybrid evolutionari algorithm task schedul data assign data intens scientif workflow cloud queri proven along domain data use prolog manag proven implicit data flow scientif experi oh gosh game hard identifi cycl pattern 2d platform game use proven data systemat map softwar requir negoti techniqu deriv scientif workflow algebra experi line practic approach raw data queri data intens parallel workflow execut toward preserv result confidenti cloud base scientif workflow
 issu teach format educ robot case studi elementari public school teacher natal
@@ -252,7 +246,6 @@ inventori control appli sale demand previs base fuzzi infer system new solut res
 fuzzi cluster valid index high dimension featur space
 scalabl cpu gpu solut prime ellipt curv discret logarithm problem strategi improv perform geophys model differ manycor system brazilian develop region atmospher model system bram 52 integr environment model tune tropic area meteorolog statist model short term wind power forecast
 shape base weight strategi appli covari estim icp wide angl rigid registr use compar tensor shape factor compar differ strategi frame frame rigid registr point cloud
-univers multilingu weightless neural network tagger via quantit linguist
 function decomposit use princip subfield resolv energi unicycl bicycl tricycl graph pre test factor bivari polynomi coeffici graph singl larg laplacian eigenvalu
 count base quadrat control markov jump linear system unknown transit probabl transfer count base quadrat control markov jump linear system unknown transit probabl valu awar loss function model base reinforc learn successor featur transfer reinforc learn natur valu approxim learn trust past estim predictron end end learn plan
 evalu accuraci machin learn algorithm detect code smell differ develop
@@ -263,7 +256,6 @@ evalu use neural network acoust measur identifi laryng patholog
 vermont multi perspect visual interact platform mutat analysi
 use augment realiti support educ creat mobil learn tool use inquiri base approach investig continu assess correct introductori program moodl predicta data mine tool student follow
 build structur light applic use low cost camera
-locat alloc model logist integr center
 infgmn increment neuro fuzzi gaussian mixtur network
 intersc scalabl microservic base open sourc platform smart citi model driven domain specif middlewar
 novel 3d shape descriptor automat retriev anatom structur medic imag
@@ -308,7 +300,6 @@ pattern process mycobacterium bovi evolut reveal phylogenom analys
 framework data transform credit behavior score applic base model driven develop
 survey use social bpm practic brazilian organ investig identif technic debt code comment analysi improv model inspect process crowdsourc find control experi name pain requir engin investig model qualiti assur distribut scalabl inspect process requir engin practic problem agil project result intern survey support defect causal analysi practic cross compani data caus requir engin problem investig influenc inspector learn style design inspect find quasi experi improv model inspect crowdsourc systemat map softwar requir negoti techniqu
 integ base genet algorithm featur select multivari calibr stochast approach sirc model use individu base epidemiolog model parallel regress variabl select use gpu doi 101007 s00607 016 0487 modern metaheurist multi object formul variabl select problem
-anteced govern effect empir examin brazilian firm violência contra criança adolescent característica dos caso notificado em um centro de referência sul brasil
 relat approach fuzzi graph grammar theorem prove graph grammar attribut negat applic condit
 wcds two phase weightless neural system data stream cluster univers multilingu weightless neural network tagger via quantit linguist optimis loop dynam dataflow weightless neural network open set recognit toward dataflow runtim environ edg fog situ comput elm vs wisard perform comparison neuro symbol approach gps trajectori classif realiz strong puf weak puf via neural comput
 hypervideo model learn object fábula model author web base children ebook convert ncl document smix fix semant interpret process
@@ -333,7 +324,6 @@ multi agent architectur swarm robot system
 parallel adapt genet algorithm unconstrain multimod numer optim congest control approach m2m network mechan control congest machin machin communic lte network
 integr gestur data comput aid composit framework represent process map unrespons partner role social status auditori feedback animaci coordin joint music perform
 innov manag lesson learn project adopt social media use social media project manag literatur review base hermeneut research agenda
-binari adder circuit design use emerg migfet devic
 intent awar semant queri annot exploit socio econom model lodg recommend share economi effect dynam search special domain model inform flow dynam inform retriev exploit item co util improv collabor filter recommend
 structur function studi bpp brachynh synthet analogu thereof angiotensin convert enzym
 practic evalu static analysi tool cryptographi benchmark method case studi longitudin retrospect studi develop misus cryptographi onlin communiti
@@ -357,7 +347,6 @@ recurr measur condit depend applic unveil non stationari coupl amazon ocean rece
 imped spectroscopi analysi mg4nb2o9 ceram differ addit v2o5 microwav radio frequenc applic automat restor system power distribut network base multi agent system model implement low cost control citi gate heat system base petri net
 ecocomposit everyday creativ music practic theori practic experi ubiquit music research ufrg applic school high school student classroom challeng second decad ubimus research metaphor creativ action keynot maxwel demon comprovis ecolog ground creativ practic knowledg transfer ubiquit music activ ecolog ground creativ practic ubiquit music ubiquit music research everyday music phenomena multidisciplinari implic creativ educ theoret approach music creativ ubimus perspect ecocomposit perform strategi creativ usag everyday sound creativ semant anchor
 saúd na copa world first applic participatori surveil mass gather fifa world cup 2014 brazil environment surveil crimin investig unman aerial vehicl uav malaria system microapp new mobil devic base tool malaria diagnosi
-mate multiag architectur tame devic
 genic novel framework gene network infer cluster exhaust search multivari analysi multidimension integr analysi uncov driver candid biomark penil carcinoma genom wide analysi human malaria parasit plasmodium falciparum transcript factor pfnf yb show interact ccaat motif hybrid cpu gpu mic algorithm hit set problem
 privaci inform posit credit system
 design toward person identifi inform control awar openid connect ident provid cloud ident manag survey privaci strategi privaci token mechan user privaci specif ident manag system cloud preserv privaci fine grain author ident manag system
@@ -382,7 +371,6 @@ divid conquer factor algorithm read function divid conquer factor algorithm read
 comparison direct imag sensor wire mesh sensor appli gas liquid slug flow investig methodolog determin typic bubbl shape intermitt flow wire mesh sensor data capacit wire mesh sensor appli visual three phase liquidgassolid flow bubbl shape identif calcul gas liquid slug flow use semi automat imag segment ann base imag reconstruct optic tomographi appli gas liquid flow monitor optic electr probe two phase flow investig three dimension bubbl shape estim two phase gas liquid slug flow capacit multielectrod direct imag sensor visual two phase flow
 negoti style cognit effort negoti support system biometr analysi use eeg marker investig relat negoti style cognit workload
 project scope manag strategi orient requir engin effici parallel optim co authorship network analysi
-intellig hybrid system dark spot detect use sar data
 explor water radiolysi proton cancer therapi time depend non adiabat simul h2o1
 math heurist algorithm new parallel schedul problem improv fine tune metaheurist approach combin design experi race algorithm optim model minim expect end end transmiss time wireless mesh network
 improv edp multi core embed system multidimension frequenc scale dynam network bandwidth resiz big data applic eco perform awar energi effici cloud data center orchestr leaf area determin digit imag analysi
@@ -391,7 +379,6 @@ mitig ack counterfeit attack delay disrupt toler network moskou heurist data agg
 close cycloid norm plane
 correct plastic zone estim linear elast stress field qualit analysi
 4th intern workshop conduct empir studi industri cesi 2016 product paradox revisit
-avaliação da educação superior um comparativo dos instrumento de regulação entr brasil portug
 stochast approach sirc model use individu base epidemiolog model conform analysi novel fluorin chalcon
 inform system warn forecast flood vale itajaí basin
 smartphon base outlier detect complex event process approach drive behavior detect
@@ -429,7 +416,6 @@ imex scheme time integr burger equat
 cpu gpu local search heurist maximum weight cliqu problem massiv graph
 exploratori studi mono multi object metaheurist ensembl classifi
 scrumi board serious virtual game teach scrum framework
-prática organizacionai requerida para inovação um estudo em empresa de tecnologia da informação
 gender recognit face imag use geometr descriptor viscom robust video summar approach use color co occurr matric video summar method base weber local descriptor
 healthcar manag brazil invest rd medic devic versatil eeg spike detector multivari matrix featur base linear discrimin analysi combin wavelet descriptor assess iter reconstruct method spars ultrasound imag imag base red blood cell counter multipl speci wild domest anim
 perform assess loadng rout protocol smart citi scenario cross layer multius session control optim communic sdn base cloud platform real time robust indoor track system smartphon toward fog base slice defin wlan infrastructur effici cope futur 5g use case perform evalu multipl attribut mobil decis model qoe effici perspect appli fog comput improv crime assist smart transport safeti system toward enhanc connect wlan slice mobil health solut diseas control transmit aed aegypti mosquito use predict classifi carrier grade sdn control wlan share perform evalu openflow enabl commod base hardwar network node predict hypertens disord high risk pregnanc use random forest approach expand carrier grade sdn control plane wlan costum side system perform evalu commod base wireless node perform evaluaron tree augment naiv bay classifi knowledg discoveri healthcar databas
@@ -441,7 +427,6 @@ altern communic tool use libra support peopl communic disabl
 comput tool appli dam break studi
 powertrain optim improv vehicl perfom fuel consumpt later dynam wheelchair identif analysi tire paramet perform comparison control techniqu appli perman magnet synchron machin
 combin approach enhanc stabil recombin cis dihydrodiol naphthalen dehydrogenas pseudomona putida g7 allow structur kinet character enzym
-dijkstra graph
 ensembl classif alzheim diseas mild cognit impair base complex graph measur diffus tensor imag
 quantum violat instrument test entrop approach causal correl maxim qubit violat local inequ star shape quantum network probe non classic tempor correl experiment biloc violat without share refer frame bell scenario communic causal hierarchi multipartit bell nonloc
 effici hybrid implement mlpg method adapt meshless parameter full waveform invers effici hybrid implement mlpg method
@@ -503,7 +488,6 @@ use goal model ontouml reengin good relat ontolog use process indic help verif g
 homolog detect use multilay maximum cluster coeffici new approach genom comparison invas non invas strain streptococcus pyogen skin color segment levenshtein distanc recognit bsl sign video character mycobacterium chelona like strain compar genom repress activ tailless eve pair rule stripe improv trend analysi use social network featur brazilian style scienc analysi differ brazilian intern comput scienc depart graduat program use social network analysi bibliometr identif analysi seven effector protein famili differ adapt evolutionari histori plant associ member xanthomonadacea
 patient percept regard influenc individu social vulner adher tuberculosi treatment qualit studi
 dinaton didact inter languag learn adapt automata construct
-heterogen ensembl dynam select softwar develop effort estim
 prosopographi prosoporecognographi prosoporecognograph chart econophys past present categoris polyphon music signal use modular communiti detect audio associ visibl network
 author tool design intellig tutor system systemat review literatur
 worst case evalu complex unconstrain nonlinear optim use high order regular model
@@ -580,7 +564,6 @@ applic data mine techniqu olymp data
 use profil hidden markov model viral discoveri current insight
 onlin increment supervis grow neural gas
 ferroelectr character srbi2ta2o9 obtain microwav process
-tecnologia da informação da comunicação tic aplicada dislexia revisão de literatura nonlinear combin method forecast appli pm time seri perform qam nakagami channel subject gate nois studi spell context dyslexia literatur review
 approxim algorithm hub median problem
 dynam channel alloc protocol medic environ multipl base station design collis detect acceler heterogen cpu fpga platform explor dynam larg scale gene regulatori network use hardwar acceler heterogen cpu fpga platform map critic ill earli sign prioriti alert transmiss wireless network jetsonleap framework measur power heterogen system chip devic
 life cycl assess environment influenc wooden concret util pole base servic lifetim
@@ -589,7 +572,6 @@ rank associ rule cluster interesting
 crude oil blend schedul optim industri size refineri discret time benchmark feedstock storag assign process industri qualiti problem lp reformul approxim non convex blend milp schedul problem use factor schedul feed qualiti optim raw materi metal industri
 gaussian basi set atom molecular calcul obtain stochast optim
 data exchang tool base ontolog emerg respons system
-valu creation big data scenario literatur survey
 anamorph quasiperiod univers modifi einstein graviti loop quantum graviti correct
 ground plane segment use artifici neural network pedestrian detect segment optic disc blood vessel retin imag use wavelet mathemat morpholog hessian base multi scale filter
 conceptu framework qualiti assess manag biodivers data
@@ -629,14 +611,12 @@ use petri net model support case hw assist task schedul optim boundari element m
 human health monitor sensor analysi contextu uncertainti dempster shafer evid theori
 instruct feedback techniqu teach project manag tool align pmbok dotproject open sourc softwar project manag educ
 lexicograph product chordal graph cograph preserv continu continu graph larg girth exist tree backbon realiz chromat number backbon color continu lexicograph product graph
-modelo estrutur de governança da informação para banco
 user studi cartographi opportun empir research interact map visual
 featur base percol theori quantif non hodgkin lymphoma segment method stain histolog imag lymphoma review explor polynomi classifi predict match result footbal championship applic evolutionari algorithm unsupervis segment lymphoma histolog imag comput method unsupervis segment lymphoma histolog imag base fuzzi partit entropi genet algorithm
 construct bench co current bed model gasifi suitabl local biomass flame profil porous radiant burner use alumina sphere energet analysi commerci absorpt refriger unit use ammonia water mixtur
 simul control loop wireless network relat qos qoc mar traffic contain network reconfigur malwar analysi system behavior model ieee 802154 beacon enabl mode base color petri net sens servic secur wireless sensor network infrastructur share internet thing discoveri protocol sdn base wireless sensor network unidirect link perform evalu cryptograph algorithm iot platform oper system
 histor impact analysi api break chang larg scale studi shape featur code analysi twenti preprocessor base system identifi class legaci javascript code dcl 20 modular reusabl specif architectur constraint
 agm like paraconsist belief chang
-rddm reactiv drift detect method wilcoxon rank sum test drift detector
 fast sec approach secur big data process cloud model order select eigen similar base framework detect identif network attack robust nonlinear array interpol direct arriv estim high correl signal potenti gain edp dynam adapt number thread openmp applic embed system enhanc time synchron support wireless sensor network quantit perform studi fd vehicular network distribut control group unman aerial vehicl perform surveil mission provid relay communic network servic eft fault impact analysi perform critic task intravehicular network model fault communic protocol base aspect orient method offlin mode corpor mobil client secur architectur nosql real time databas perform comparison employ sdn control video stream applic militari mobil network antenna array base local scheme vehicular network task orient parameter semi autonom navig framework develop simul system ontolog autonom robot radiofrequ energi harvest system base rectenna array urban environ
 segment method myocardi ischemia infarct applic heart photo mobil devic tool assist ecg interpret base realist 3d virtual heart simul
 new crude glycerin base drill fluid determin model paramet non linear deep bed filtrat use laboratori pressur measur
@@ -669,7 +649,6 @@ platform autonom path control unman airship
 automat classif laryng mechan sing base audio signal compar studi object video qualiti assess metric
 review plan alr laser rangefind aster deep space mission tripl asteroid 2001 sn263
 optim base phylogram analysi investig alpha band electroencephalogram task propriocept neuromuscular facilit propriocept neuromuscular facilit increas alpha absolut power dorsolater prefront cortex superior pariet cortex
-line writer identif use handcraft featur versus convnet knowledg transfer writer identif
 low cost workload generat approach cloud capac plan servic orient system influenc resourc alloc cloud comput perform grasp heurist choic clusterhead wireless sensor network provid servic perform evalu automat web servic composit system qos driven approach cloud comput address attribut perform secur optim servic level agreement establish cloud comput
 design synthesi evalu novel feruloyl donepezil hybrid potenti multitarget drug treatment alzheim diseas
 analysi convect storm use meteosat second generat spol radar megac may 18 2014
@@ -763,7 +742,6 @@ comput 21st centuri secur privaci challeng 25 year siot secur internet thing dis
 subexponenti focus modal concurr system analysi design strategi unman aerial vehicl use co simul
 evalu reliabl use prototyp ppmark tool support comput human interact read privaci polici use gqm tam model mobil privaci user expect behavior mobil app
 toward fault toler multi robot network
-cluster base semisupervis ensembl multiclass classif
 dynam approach teach algorithm integr immers environ virtual learn environ
 softwar test process iso standard harmon refer ontolog ontolog pattern back
 mdltext effici lightweight text classifi toward filter undesir short text messag use onlin learn approach semant index
@@ -843,7 +821,6 @@ encod consist relat bayesian network speed problog paramet learn complex infer e
 voltag control area transmiss system distribut generat voltag behavior switch reluct generat due differ speed profil aim use small wind turbin
 energi effici memori hierarchi multi issu processor explor redund granular repair real time fpga base system
 experiment analysi perform machin learn algorithm classif navig accid record
-wurtzit spin laser
 selfhood evolutionari interact instal use particl system synthes imag sound
 map sugarcan crop area paraná state use landsat tm oli ir liss imag map summer agricultur crop alto paraguai basin evi modi time seri
 laser scanner intens calibr base artifici neural network
@@ -887,7 +864,6 @@ ontolog autonom robot design evalu probabilist record linkag method support braz
 wrist player smartwatch gestur control smart tvs petgyn 20 brazilian urban traffic plan system
 social support predictor lower stress higher qualiti life resili brazilian patient colorect cancer combin effect pcv10 meningococc conjug vaccin mening mortal among children five year age brazil
 idiom repres data type alloy
-utilização de fundamento de engenharia kansei como proposta de gerência digit de referência criativa de composição colaborativa de moodboard estim heat transfer coeffici solid gas interfac use landau teller model
 spectral calibr fluoresc telescop pierr auger observatori observ larg scale anisotropi arriv direct cosmic ray 10 18 ev infer mass composit test hadron interact 03 100 eev use water cherenkov detector pierr auger observatori
 variant product configur industri air handl unit mto environ multi criteria analysi priorit energi sourc ambienc poultri product
 compar analysi turbul regim self affin studi fluid flow use openfoam cfd
@@ -941,7 +917,6 @@ versatil eeg spike detector multivari matrix featur base linear discrimin analys
 ndnrel mechan base relat among object improv perform ndn exploit parallel hierarch content store high speed icn router
 estim refer evapotranspir use data mine predict model featur select textual analysi protect children teenag social media classif inappropri messag children teenag comput travel time function trajectori data stream distribut framework larg scale time depend graph analysi
 comput method phase shift stress measur photoelast use plane polariscop
-uma tradução adaptada texto sobr alguma refutaçõ da existência de elétron núcleo proposta por beth bacher
 parallel heurist singl alloc hub locat problem multi object capacit rural school bus rout problem heterogen fleet mix load formul decomposit method incomplet hub locat network design problem without hop constraint bender decomposit appli robust multipl alloc incomplet hub locat problem effici bender decomposit algorithm robust multipl alloc incomplet hub locat problem servic time requir
 support mobil awar comput offload mobil cloud environ
 improv multidimension wireless sensor network lifetim use pearson correl fractal cluster
@@ -1072,7 +1047,6 @@ dorsal striatum d1 express neuron involv sensorimotor gate prepuls inhibit test
 vision human machin collabor mutual understand trust establish comparison two simul support safeti analysi autonom vehicl preliminari analysi impact vehicular ad hoc network traffic safeti
 new method model cloud combin procedur implicit model understand user experi game control case studi adapt smart control tradit gamepad ser publicado interact mechan virtual realiti base upper limb motion track use depth camera inerti sensor
 ongo univers teacher complex knowledg dynam
-quantif data stream initi result
 framework data transform credit behavior score applic base model driven develop
 compar studi multiobject evolutionari algorithm wireless local area network design multiobject evolutionari algorithm oper plan problem open pit mine
 exploit item co util improv collabor filter recommend websit replica detect distant supervis learn transfer featur speech emot recognit machin learn predict mortal prolong length stay intens care unit brazilian cohort critic ill patient unsupervis scalabl algorithm learn node represent intent awar semant queri annot
@@ -1143,7 +1117,6 @@ interact web interfac model simul analysi use color petri net social collabor in
 new methodolog diagnosi system dont know respons nuclear power plant
 low power sum absolut differ architectur use novel hybrid adder low power satd architectur employ multipl size hadamard transform adder compressor exploit absolut arithmet power effici sum absolut differ explor use parallel prefix adder topolog approxim adder circuit use adder subtractor compressor sum absolut transform differ architectur low power video encod
 queri archetyp base electron health record use hadoop dewey encod openehr model
-uux post
 enabl opportunist search placement cach network
 proposit bm c2c exchang applic use strateg analysi analysi determin open innov implement region innov system valu co creation web base multisid platform conceptu framework implic busi model design innov sustain busi model fashion industri entrepreneuri driver opportun challeng strateg tool busi model inform technolog firm risk manag perspect startup
 combin behaviour driven develop scrum softwar develop educ domain wireless bodi sensor network monitor evalu physic activ
@@ -1207,7 +1180,6 @@ optic flow estim use total least squar variant
 cost function tune methodolog fcs mpc appli pmsm drive fault toler sensorless control five phase ftfscw ipm motor base wide speed strong robust slide mode observ predict control framework phase induct motor model natur variabl onlin paramet identif induct motor close loop speed control use least squar method asymptot refer track analisi model free model depend adapt control method perform evalu induct motor fed pwm voltag magnet equival circuit fault toler control perman magnet synchron motor optim mimo control approach pmsm drive
 decis support system base robson classif enough reduc cesarean section rate
 formal definit general ontolog pattern languag use graph grammar
-autom evalu system human pupillari behavior sistema automatizado para avaliação comportamento pupilar humano baseado em visão computacion
 jansen mida multi level photomicrograph segment softwar base isotrop undecim wavelet
 data abstract central measur scientif social network analysi autoencod recommend system cofil approach
 lte wi fi coexist ghz ism spectrum issu solut perspect distribut wi fi interfer coordin dens deploy
@@ -1231,8 +1203,6 @@ examin multi legend chang detect amazon pixel region base method
 taxonom revis flavopalliata speci group signiphora hymenoptera signiphorida
 propag base march cube algorithm use open boundari loop
 relay posit strategi traffic data collect multipl unman aerial vehicl use hybrid optim system fanet base case studi
-model framework scalabl reproduc ecolog nich model jabotg extend herbarium dataset frontier flora estado rio de janeiro avanço conhecimento da diversidad
-select harvest network
 human capit measur scale sustain develop smart citi systemat review literatur sustain develop smart citi systemat review literatur
 quasi omnidirect fuzzi control climb robot inspect task new method appli differenti kinemat dual quaternion enhanc robot capabl environment percept embed gpu pose predict approach mobil object 2d costmap systemat literatur review automot diagnost
 low cost vision base air hockey system manufactur equip retrofit allow usag industri 40 develop hybrid arm prosthesi control eeg signal
@@ -1306,9 +1276,6 @@ assess impact ipsec cryptograph algorithm virtual network embed problem algorith
 learn object interfac adapt learner learn style adapt learn object interfac base learn style
 satisf approach converg valu measur cvm use process model benefit analysi
 multi arm bandit select strategi hyper heurist hybrid multi object bayesian estim distribut algorithm compar analysi multi object knapsack problem adapt oper select mani object optim nsga iii
-uma contribuição ao estudo fenômeno da ambiguidad lexic na atividad contábil
-rddm reactiv drift detect method
-avaliação de habilidad matemática em criança com síndrome de com desenvolvimento típico
 equat base model stock market visibl graph combin inform theori estim stock market effici fem model sandpil dip effect influenc granulometri hurst expon air liquid interfac form capillari rise granular media method parallel comput appli granular simul increas horizont veloc particl leav belt conveyor jam transit evinc voronoi tessel
 big data manag process context system wide inform manag first other credit assign schema evalu academ contribut coauthor arriv flow manag 4d environ use greedi algorithm regard airlin busi model airport concentr languag independ text summar western european languag use shape code text element
 inform manag decis make process altern renew sourc energi inform flow develop process intern student receiv depart ufmg environ analysi rural school transport case studi espírito santo brazil automat code check appli fire fight panic project bim environ bimscip
@@ -1321,7 +1288,6 @@ michael cronin 2013 resist accommod factor non adopt machin translat among profe
 multidimension surrog stabil detect data stream concept drift
 impact energi storag power system case brazil northeastern grid
 automat count trypanosomatid amastigot infect human cell supervis approach separ sky ground region white index noisi charact recognit use deep convolut neural network multipl classifi system plant leaf recognit two stage facial age predict use group specif featur two step cascad classif method
-virtual instrument partial discharg monitor
 provid comput servic mobil devic collabor way fog comput case studi systemat map structur test criteria concurr program consid dynam aspect contribut structur test multithread program coverag criteria test tool experiment evalu
 power quasi shortest path geodes between central
 creat learn object libra written portugues visual strategi learn object teach written text cohes deaf use sign languag scaffold
@@ -1332,7 +1298,6 @@ superconduct attract two band hubbard model second nearest neighbor tunabl inter
 transpar practic understand user experi game control case studi adapt smart control tradit gamepad design game control mobil devic minim cyber sick head mount display system design guidelin applic
 spatial distribut muriqui fragment landscap brazil occurr toxoplasma gondii antibodi lowland tapir maintain ex situ brazil paraguay
 dimitri open sourc humanoid robot compliant joint
-make general paxo practic
 use datamin predict diseas vineyard oliv grove prole custom process appli softwar engin laboratori small busi ontolog clinic decis support system predict femal fertil period
 analysi exist patient care team use social network method physician communiti healthcar insur compani
 applic queue theori continu assembl line set conwip level deploy balanc scorecard tool measur perform case technolog compani brazil
@@ -1351,7 +1316,6 @@ toward definit domain specif threshold comprehens heterogen configur knowledg us
 descript complex decis problem logic relat fix point captur result
 deriv domain function requir conceptu model repres ontouml use iso iec 27034 refer develop applic secur control librari use statist method compar agil waterfal process perform challeng base learn appli mobil softwar develop teach interoper manufactur knowledg system
 influenc semant similar measur ontolog cross languag map experiment studi reveal key factor cross languag align toward ontolog base definit data anonym polici cloud comput big data
-governança de arranjo produtivo local um estudo de caso apl leit de santana livramento rs brasil busi model startup multicas studi
 answer set program non stationari markov decis process
 data driven approach help understand prefer public transport user human mobil larg citi proxi crime
 improv cloud comput virtual machin balanc host virtual machin similar cloud ident manag survey privaci strategi preserv privaci fine grain author ident manag system
@@ -1435,7 +1399,6 @@ aven novel fli ad hoc network simul automat code generat unman aircraft system
 anti ramsey threshold spars graph one triangl count result spars pseudorandom hypergraph ii chromat threshold dens random graph chromat threshold spars random graph power hamilton cycl pseudorandom graph count result spars pseudorandom hypergraph densiti larg permut paramet test monochromat tree random graph estim distanc hereditari graph properti number transit orient gnp maximum size non trivial intersect uniform famili subfamili hilton milner famili
 entrepeneuri univers academ role innov develop integr qfd triz defin engin product requir
 predict polic applic support patrol plan smart citi use social media photo identifi tourism prefer smart tourism destin toward civic engag smart public secur data integr approach smart citi case natal featur engin crime hotspot detect character geo locat tweet brazilian megac challeng develop smart citi system toward architectur smart garbag collect urban set
-3d visual simul modul base virtual geograph environ elev mean sea level ponta da areia beach são luí maranhão brazil
 algorithm minimum identifi code cartesian product graph
 parametr approach linear regress interv data investig differ fit criteria swarm base cluster beyond sigmoid obtain well calibr probabl binari classifi beta calibr beta calibr well found easili implement improv logist calibr binari classifi
 save resourc discoveri protocol delay sensit rescu mobil network fault detect diagnosi solar power wireless mesh network use machin learn identifi vulner smart gric communic network electr substat use gees 20 multi channel continu rendezv cognit network coexist server cognit network real implement moskou heurist data aggreg posit smart grid
@@ -1449,7 +1412,6 @@ undecid mobil predict look mobil improv communic mobil network
 dataflow implement region grow method crack segment
 pre train convolut neural network featur extractor tuberculosi detect
 use aggreg tree arrang energi function term protein structur predict
-analysi topic research brazilian research act area engin overview advic process scientif product advis advis relationship area engin identif profil product research cnpq research use latt platform propos base meta heurist solut problem sequenc non relat machin anális da evolução das colaboraçõ científica institucionai dos docent de pós graduação entr os ano de 2012 2015 uma estratégia baseada em text mine para compreensão processo de orientação em repositório de dado científico academ genealog hierarch analysi advisor research
 optim digit imag process determin quantum dot height densiti atom forc microscopi poros assess differ diamet coir lignocellulos fiber non destruct evalu metal polym hybrid structur character ray comput tomographi class oil well cement past expos elev temperatur 3d ray microscopi analysi lignocellulos fiber use reinforc composit materi polym matrix poros character iron ore pellet ray microtomographi caracterização automática de minério de ferro por microscopia digit anális de imagen 3d ray microscopi analysi nanocomposit bamboo differ silver nanofil tridimension character epoxi matrix glass fiber reinforc composit
 analyt model atom forc microscopi forc curv viscoelast materi exhibit power law relax substrat effect exciton fine structur black phosphorus quantum dot
 edg color graph avoid complet graph prescrib color identifi defect set use queri small size
@@ -1493,13 +1455,11 @@ hybrid rfid cv system item level local stationari object sens servic context awa
 random variabl neighborhood descent heurist solv fli sidekick travel salesman problem
 terrain databas correl assess use open sourc tool
 predict earli death elder patient cancer artifici neural network
-validação método simpl exponenti smooth addit para realização de previsõ de gasto com importação de produto farmacêutico forens document examin writer model develop learn object use educ design
 fast word recognit nois channel base model scenario nois specif domain knowledg
 115 allelecheck onlin tool count rare allel reduc upload faulti inform bone marrow databas optimis loop dynam dataflow
 comput split precondition interior point method use incomplet factor approach comput search direct interior point method altern linear system influenc matrix reorder perform iter method solv linear system aris interior point method linear program
 detect influenc wisdom crowd activ recognit model base gps data point interest user profil life beyond physic bodi possibl digit immort
 provid privaci tupl space model
-softwar project plan mobil game develop quasi systemat review
 teach web program base interdisciplinari project experi report rigor evalu benefit usabl improv within model check aid softwar inspect
 teach robot program activ visual impair student systemat review donni robot toward robot program environ visual impair peopl
 develop smartphon control quadrotor testb autonom applic
@@ -1519,7 +1479,6 @@ role brazilian nation health inform system assess impact zika virus outbreak mul
 geometr approach spectral analysi
 open sourc drug discoveri malaria box compound collect neglect diseas beyond
 current continent shelf adjac laje de santo sp brazil
-structur pyramid neural network
 sourc apportion settleabl particl impact urban industri region brazil analysi interfac configur flow characterist tank multiphas liquid gas system use numer simul wind friction parametris use emiss model wastewat treatment plant critic review indoor air qualiti antarct research station fungi particl aldehyd concentr associ build materi architectur design associ concentr fine particl atmospher acut respiratori diseas children
 surviv perform degrad framework larg scale network system sparta surviv perform degrad framework ident feder
 autom eeg signal analysi use quantil graph
@@ -1592,7 +1551,6 @@ reduc concret effort fsm base test softwar product line
 automat larg scale data acquisit via crowdsourc crosswalk classif deep learn approach deep learn base larg scale automat satellit crosswalk classif ego lane analysi system ela dataset algorithm binari featur select classifi ensembl fault diagnosi submers motor pump model predict motion planner iara autonom car month energi consumpt forecast deep learn approach kernel random extrem learn machin appli submers motor pump fault diagnosi
 formal character fortembc theori revis oper use stochast local search techniqu revis first order logic theori exampl
 one index domin effici integr multipl repositori medic imag databas breath heat map assist detect abnorm lung region ct scan complex network tool understand behavior crimin urban area case san francisco upgrad semindex prototyp semant index queri textual data mammoset enhanc dataset mammogram behavior character crimin spread citi model tempor activ detect anomal behavior social media clap acir scoop novel techniqu improv perform dynam metric access method
-anális de produto desenvolvido mestrado profission na área de matemática possibilidad de adaptaçõ para uso com estudant cego
 biograph link biolog base across organ
 parallel biolog sequenc comparison linear space multipl adjust band parallel effici sensit analysi microscopi imag segment workflow hybrid system algorithm sensit analysi paramet tune tissu imag segment pipelin
 learn process interplay understand doubt dynam system approach
@@ -1619,7 +1577,6 @@ build foundat mde servic model composit uml profil alloy build foundat mde servi
 real time control system base valu deriv redox potenti aim nitrogen remov sequenc batch reactor appli treat dairi wastewat
 tune tvd hopmoc method intel mic xeon phi architectur intel parallel studio tool evalu four reorder algorithm reduc comput cost jacobi precondit conjug gradient method use high precis arithmet analysi reorder algorithm reduc comput cost jacobi precondit cg solver use high precis arithmet
 paramet select swarm intellig algorithm case studi parallel implement fss hybrid intellig decis support use semiot case base reason self organ map systemat review gait analysi method base inerti sensor adapt algorithm link predict tackl boundari specif problem social network survey self organ map anomali detect fuel consumpt social influenc model base affili case studi multi parti polit system automat flow signal analysi airway secret detect ventil depend patient artiﬁci immunolog system learn databas queri via intellig semiot machin light consumpt optim use fish school search algorithm anomali detect fuel consumpt case studi illeg fuel storag bolivia intellig support detect failur industri equip co evolutionari approach interocean ship applic central america transocean trade comput semiot appli medic semiolog studi target medic ambigu vagu applic semiot principl comput intellig ressignifi icu patient data high level parallel implement swarm intellig base optim algorithm algorithm skeleton combin behavior experi agent base social simul support trust awar decis make suppli chain intellig decis support data purchas analysi road traffic behavior metropolitan area recif brazil
-um modelo probabilístico para criação de ptms de porta lógica combinacionai explor bdds reduc test pattern set
 class hybrid multilay perceptron softwar develop effort estim problem morpholog neural network binari classif problem smooth gram base model tweet languag identif case studi brazilian european portugues nation varieti automat trade method base piecewis aggreg approxim multi swarm improv self adapt particl swarm optim valid problem forecast air pollut concentr morpholog model investig opinion mine languag varieti case studi brazilian european portugues tweet time seri forecast presenc concept drift pso base approach impact dataset complex transfer learn convolut neural network optim speaker specif filter bank speaker verif heterogen ensembl dynam select softwar develop effort estim
 conceptu design turbofan engin superson busi jet preliminari design optim organ rankin cycl radial turbin rotor
 grasp weight target set select problem identif systemat indic data mine techniqu detect evas distanc educ
@@ -1658,7 +1615,6 @@ compar rest soap socket grpc comput offload mobil applic energi cost analysi
 multipl victim triag use fuzzi
 guest editor
 use case base methodolog conceptu design industri mechatron product
-conteúdo interdisciplinar para aprendizagem de conceito físico relativo eletricidad
 leaf gas exchang biomass partit jatropha curca young plant subject flood drought stress
 circular economi toolkit altern improv applic pss methodolog linear circular economi pss conduct transit
 analysi scan electron microscopi imag investig adsorpt process respons detect cancer biomark
@@ -1745,7 +1701,6 @@ fast simpl jumbl index binari run length encod string
 content access optic cloud network target link cut efah energi fatigu awar heurist provis high avail connect optic backbon network link addit framework optic cdns robust target link cut attack joint optim failur manag cost electr cost oper revenu optic core network
 human health monitor sensor analysi contextu uncertainti dempster shafer evid theori
 machin learn predict cardiac epicardi mediastin fat volum autom recognit pericardium contour process ct imag use genet algorithm tumor growth model cellular automata distanc set survey influenc anisotrop growth geometri stress solid tumor ration convolut root isobar polynomi haptic forc gamif epidur anesthesia skill gain efici signal descriptor identifi normal abnorm cardiac rhythm use fulli convolut network evalu infrar breast imag segment clinic decis support system aid diagnosi alzheim diseas relat disord mobil devic model behavior human bodi tissu penetr visual system custom secur analysi citi mammogram classif use back propag neural network textur featur descriptor virtual environ breast exam practic haptic gamif comput aid diagnosi breast diseas base infrar imag
-hardwar softwar co design matrix invers
 wikiolapbas collabor tool open data process integr
 two concept modul agent societi inter societ agent system energi system materi agent societi situat ideolog system formal concept comput notat applic
 guidanc data stream character meta learn deep learn biolog imag classif
@@ -1832,7 +1787,6 @@ domain adapt pos tagger without handcraft featur difficult adapt pos tagger
 cloud iec 61850 dds perform virtual environ opendd automata base model interrupt linux preempt rt kernel use gev gumbel model appli evt probabilist wcet estim evalu low overhead predic system determinist vliw architectur target real time applic combin loop unrol strategi code predic reduc worst case execut time real time softwar
 multi agent system appli power loss minim distribut level smart grid dynam load variat
 repow rural singl phase distribut network non convent propos use two overhead wire ground third phase
-duelmerg merg fewer move multilingu emot classif use supervis learn compar experi extração de dado de conferência em página web
 impact overexpress tomato translate control tumor protein tctp tobacco reveal phenotyp transcriptom analysi
 exploit photo locat direct cluster base point interest discoveri
 onlin multicommod connect facil locat problem sort permut prefix suffix rearrang
@@ -1928,7 +1882,6 @@ minim traffic congest road network toll
 monitor vulner impact diffus financi network system risk financi system feedback approach
 element gamif virtual learn environ systemat review enhanc schedul algorithm lte network céos web base collabor applic improv teach learn strategi
 improv entiti link ontolog align semant microservic composit improv openid connect feder interoper web semant ontolog align framework data base microservic secur storag user credenti attribut feder cloud plan execut heterogen servic composit automat semant enrich data servic
-avaliação uso da primeira via calma em curitiba pr para ciclomobilidad
 mram control transistor resili heavi ion impact
 integr nosql relat databas hadoop ecosystem interdisciplinari project involv big data credit card transact appli collect intellig evolut project architectur use agil method
 behavior character crimin spread citi complex network tool understand behavior crimin urban area agricultur monitor use cluster techniqu satellit imag time seri low spatial resolut
@@ -1941,7 +1894,6 @@ combin rule proport multiobject approach algorithm composit geodet rank graph co
 item base explan user base recommend
 tool simul transmiss recept execut interact tv applic
 graph cut neural network segment poros quantif synchrotron radiat ray μct igneous rock sampl
-approach serious game design systemat literatur review
 analysi exist patient care team use social network method physician communiti healthcar insur compani
 linear logic base synchron rule deadlock prevent web servic composit
 compact extend formul virtual network embed problem mathemat formul minim total tardi schedul problem parallel machin branch price algorithm solv integr product plan schedul bulk port improv combinatori bender decomposit schedul problem unrel parallel machin capacit plant locat model revers logist activ optim oper bulk termin
@@ -1981,7 +1933,6 @@ implicit method nonlinear complex diffus applic imag denois educ video classif u
 novel gpu base sonar simul real time applic
 price model iaa provid approach focus enterpris applic integr price model laa provid use multipl regress
 unsupervis activ learn techniqu label train set experiment evalu sequenti data
-unif el compet question generat
 altern predictor chaotic time seri new character chao time seri
 high speed solar wind stream effect topsid ionospher arecibo case studi solar minimum characterist nighttim region arecibo depend solar flux geomagnet variat estim 5577 nm emiss altitud use co locat lidar photomet arecibo mesospher na variabl depend geomagnet solar activ arecibo climatolog neutral vertic wind midlatitud thermospher arecibo hf facil region respons st patrick storm 17 19 march 2015 arecibo recent advanc plasma line observ techniqu hf radio wave induc densiti structur region altitud dynam observ larg apertur radar momentum imbal topsid ionospher implic bias msis oxygen densiti specif spectral analysi neutral wind compon arecibo base five consecut year 2012 2017 fabri perot observ arecibo observatori remot optic facil ao rof culebra island puerto rico current status futur project studi middl upper atmospher use lidar incoher scatter radar arecibo
 finit element simul turbid current part ii comput aspect green water load fpsos expos beam quarter sea part experiment test raw data queri data intens parallel workflow execut profil amr comput montblanc exascal prototyp trackin onlin paramet fine tune scientif workflow simul collaps column dens granular flow continu finit element approach well balanc shallow water equat residu base variat multiscal simul eros use libmesh vortex shed les 3d numer simul finit element simul turbid current part mathemat model uncertainti quantif model valid green water load fpsos expos beam quarter sea part ii cfd simul bayesian analysi rheolog model simul turbid current communic free mesh multipl use pair function time space adapt turbid current simul residu base variat multiscal simul viscoplast flow residu base variat multiscal model sediment transport toward simul non dilut turbid current uncertainti quantif turbid current comput simul comparison convect level set method phase field solv two phase flow situ data steer proven data sediment deposit simul libmesh rb vms model framework sediment transport coupl turbul rheolog behavior
@@ -2168,14 +2119,12 @@ burrow wheeler transform lcp array construct constant space induc enhanc suffix 
 studi drainag properti pervious concret analysi reinforc concret structur ultrason puls veloc technolog paramet involv
 raw data queri data intens parallel workflow execut
 mea record system circuit implement
-age group classif social network use deep learn
 corefer annot cstnew corpus improv opinion summar assess sentenc import line review analysi unsupervis aspect term identif method portugues review updat summar portugues subtop annot automat segment news text brazilian portugues opinion summar method compar extend extract abstract approach explor classic linguist enrich knowledg base method sens disambigu verb brazilian portugues news text
 smartcom smart consumpt manag architectur provid user friend smart home base meter comput intellig financi forecast accuraci brazil social secur system
 stereo vision method develop evalu dispar map wrist player smartwatch gestur control smart tvs autom evalu system human pupillari behavior
 accept test valid aria requir widget
 onlin construct wavelet tree
 mdltext effici lightweight text classifi toward filter undesir short text messag use onlin learn approach semant index
-onlin peer assess ensino superior uma revisão sistemática da literatura em prática educacionai
 lean product oper perform brazilian automot suppli chain impact lean suppli chain manag qualiti inventori variabl select framework alloc product recommend replenish model vmi applic moder effect lean suppli chain manag impact lean shop floor practic qualiti inventori lean suppli chain manag empir research practic context perform lean leadership compet multi method studi
 effect softwar base harden radiat induc soft error real time oper system
 mobil devic access visual impair problem map recommend
@@ -2304,9 +2253,7 @@ real time control system base valu deriv redox potenti aim nitrogen remov sequen
 implic character fuzzi implic satisfi construct general mixtur function bound general mixtur function
 anim machin design express robot human interact anim transmedia interfac
 test case design context awar applic yet character test method context awar softwar system result quasi systemat literatur review toward character softwar test practic south america look brazil uruguay practition perceiv relev requir engin research ongo studi rethink interoper contemporari softwar system test context awar softwar system lesson learnt conduct survey research escap time box toward continu plan industri experi right evalu empir contradict readabl comprehens sourc code
-uux post uma ferramenta para extração classificação de postagen relacionada ao uso de um sistema uma revisão sistemática sobr medição da experiência usuário data driven approach help understand prefer public transport user
 design larg scale evalu educ game teach sort algorithm
-ecossistema de informação novo paradigm para arquitetura da informação
 culex quinquefasciatus mosquito support replic zika virus
 insight function long noncod rnas sepsi reveal gene co express network analysi
 recognit character unit interv graph integ endpoint note count independ term asymptot express comput complex
@@ -2337,7 +2284,6 @@ bi object data gather path plan vehicl bound curvatur
 two phase colour awar multicor real time schedul os support adapt compon self awar system design implement cross layer iot protocol
 recal analysi core word list children utter augment altern communic regress base approach use integ linear program singl document summar ontoilp ontolog induct logic program base system extract entiti relat text
 gap soliton transpar switch one dimension kerr metamateri superlattic
-facebook nova arquibancada para market de relacionamento co creation videogam industri case studi brazilian develop
 textual analysi protect children teenag social media classif inappropri messag children teenag analysi softwar agent environ ment applic school wesaac retrospect relev trend
 microrna 16 feedback loop p53 wip1 regul cell fate determin apoptosi senesc dna damag respons
 time seri join motif discord shapelet unifi view exploit matrix profil
@@ -2376,7 +2322,6 @@ strateg school boston mechan revisit
 biolog system sub cellular scale investig actin transport filopodia
 test suit complet black box test experiment comparison approach check complet test suit finit state machin
 ensur end end qos base multi path rout use sdn technolog
-pbl integr softwar engin undergradu degre program curriculum
 toward multisemiot multimod editor toward architectur multimod tool learn environ
 entiti titl architectur pilot scale deploy clean slate sdn base network telecom oper nerv constraint free network resourc manag virtual environ credenc carrier grade softwar defin network control environ base jain slee compon model
 bioinformat analysi gene express data public avail databas polyadenil regulatori sequenc frequenc altern polyadenil site comprehens set cancer predisposit gene social train ensembl learn vote aggreg semi supervis classif task microrna express profil plasma patient type diabet case control studi bioinformat analysi
@@ -2428,7 +2373,6 @@ softwar process line combin creativ base requir elicit
 trend weight rule base expert system applic industri process monitor
 carduino semi autom vehicl prototyp stimul cognit develop learn teach methodolog practic approach analyz logic think develop comput aid agil collabor model driven develop framework web applic
 inl linux challeng build new foss oper system
-estim motor travel mode choic use classifi applic high dimension multicollinear data modelo de classificação de processo erosivo linear ao longo de ferrovia atravé de algoritmo de árvore de decisão geotecnologia
 effect method optim dock base virtual screen fulli flexibl receptor model
 chang element concentr dorsal hippocampus ca1 region memori consolid reconsolid
 one index domin defin similar space larg scale imag retriev scientif workflow breath heat map assist detect abnorm lung region ct scan relat graph data manag edg group vertic neighborhood edg clap acir scoop novel techniqu improv perform dynam metric access method merkurion approach similar search optim databas manag system
@@ -2642,7 +2586,6 @@ evalu thread level specul shelf hardwar transact memori cloud openmp offload dev
 weed detect soybean crop use convnet impact soybean induc defens spodoptera frugiperda lepidoptera noctuida develop insecticid activ sodium ricinol aed stegomyia aegypti linnaeus 1762 identif soybean foliar diseas use unman aerial vehicl imag
 sfc path tracer troubleshoot tool servic function chain transpar code offload techniqu android devic
 assess strength weak measur set state estim
-immers virtual train substat electrician
 visual method radiograph film silver intens map use ray fluoresc
 extend general gamma geometr distribut preval candidatus mycoplasma haemobo detect pcr dairi cattl ji paraná north region brazil
 physic layer secur shadow fade channel divers approach ratio variat applic spectrum share time split cooper spectrum share amplifi forward relay protocol energi harvest cognit user open sourc simul tool share compat studi 5g radiocommun system doubl general gamma distribut applic v2v communic joint effect jam nois secreci outag perform wiretap channel feedback delay multipl antenna
@@ -2650,7 +2593,6 @@ rhd rhce genotyp next generat sequenc effect strategi identifi molecular variant
 supercrit fluid extract rumex acetosa root yield composit kinet bioactiv evalu comparison convent techniqu evalu use gossypium hirsutum oil supercrit ethanol product ethyl ester non catalyt process
 pullback pushout approach algebra graph transform theorem prove graph grammar attribut negat applic condit use formal method content valid medic procedur document
 messag pass detect larg scale mimo system damp factor analysi improv weight averag consensus distribut cooper spectrum sens network joint uplink downlink optim pilot assign massiv mimo power control achiev maximum effect capac ofdma network oper statist delay guarante power alloc multibeam satellit base particl swarm optim sorption desorpt silver ion bentonit clay sorption desorpt selenit selen mg al layer doubl hydroxid competit nitrat sulfat phosphat spectrum sens method cognit radio network review uplink perform singl carrier receiv massiv mimo pilot contamin bayesian estim cooper spectrum sens cognit radio network game theori base resourc alloc multi cell massiv mimo ofdma network
-generic effici framework spatial index flash base solid state drive aceito para publicação asynchron collabor reconcili model base data proven
 preliminari studi correl object function optim product line architectur case studi test case generat base metamodel model transform toward initi evid smartycheck defect detect product line use case class diagram variabl resolut product configur smarti experiment studi uml class diagram compar smarti plus variabl identif represent product line uml class level control quasi experi defect type softwar inspect techniqu systemat map studi
 regk mean cluster algorithm use spatial contigu constraint region problem
 analysi parallel librari interfer effect concurr environ
@@ -2658,7 +2600,6 @@ implic chang maximum legal truck load pavement servic life estim new road roll r
 introduc adapt templat support implement adapt commerc applic
 multivari quantit model predict cross applic interfer virtual environ damag predict wind turbin use wireless sensor actuat network
 plga microspher new strategi improv effici venom immunotherapi
-rough set technic comput intellig appli financi market controlador de pont rolant de contêin com uso de uma rede neurofuzzi
 manag workflow top cloud comput orchestr use heterogen environ scienc
 studi paramet sensit bat algorithm differenti evolut algorithm comput calor restrict diet island base model
 detect transient photovolta signal via high order statist
@@ -2670,12 +2611,10 @@ mobil plataform translat brazilian indigen languag tocantin public polit focus e
 attack defend intellig botnet compar analysi similar search strategi digit forens investig
 vehicl reloc problem free float carshar use multipl shuttl distribut multi robot coordin dynam perimet surveil uncertain environ effect heurist algorithm doubl vehicl rout problem multipl stack heterogen demand memet algorithm network construct problem due date
 benefit real time product optim complex offshor multi field asset brazil integr methodolog product optim multipl offshor reservoir santo basin
-evalu free platform deliveri massiv open onlin cours mooc analysi scientif literatur massiv open onlin cours mooc análisi de la literatura científica sobr los curso en línea abierto masivo mooc academ product open educ resourc portugues la producción académica en portugué sobr recurso educativo en abierto
 nonfinanci firm larg sharehold use dividend polici manag monitor brazil determin execut compens analysi brazilian compani
 minkowski central partit pointer suitabl distanc expon consensus partit
 dynam servic chain dysco
 delet mutant easier identifi manual cost appli logic base criteria mobil applic select effect influenc principl tailor gamif base strategi player role systemat literatur review method handl multipl qualiti attribut architectur base self adapt system experiment comparison edg edg pair prime path criteria
-irrigação por pivô central estado de mina gerai brasil sob óptica googl earth
 autom detect segment glomerulosclerosi kidney histopatholog use next generat sequenc ngs uncov divers wood decay fungi neotrop atlant forest
 sensit analysi techniqu appli cloud comput environ evalu cloud comput environ differ strategi sensit analysi
 explor role ea model modular ontolog network case public secur domain
@@ -2738,7 +2677,6 @@ brazilian portugues cross cultur adapt valid suscept persuas scale br stps cost 
 new chimer rnas acut myeloid leukemia modern pollen rain background palaeoenvironment studi serra dos carajá southeastern amazonia pollen morpholog poacea implic palynolog paleoecolog record southeastern amazon brazil
 systemat review literatur teach learn requir propos structur disciplin requir engin use pbl
 qualiti servic asynchron crash recoveri leader elect algorithm transpar replic use metaprogram cyan uefi bio access visual impair
-uma comparação de técnica de aprendizado de máquina para previsão de carga energética em edifício
 relay posit strategi traffic data collect multipl unman aerial vehicl use hybrid optim system fanet base case studi
 ioniz radiat effect cot low cost risc microcontrol depth analysi temperatur effect dibl utbb fd soi mosfet base experiment data numer simul analyt model quantum effici improv soi later diod oper uv detector high temperatur
 map stabl direct retrograd orbit around tripl system asteroid 45 eugenia
@@ -2765,7 +2703,6 @@ autom recognit lung diseas ct imag base optimum path forest classifi parkinson d
 profit fractal properti note marx countertend simul model network model complex behavior rate profit explor simul model overlap technolog revolut growth pattern network intern collabor scienc
 automat hierarch categor research expertis use minimum inform build brazilian academ genealog tree increment author name disambigu exploit domain specif heurist collabor network brazilian symposium databas 30 edit histori profil analysi top brazilian comput scienc graduat program
 design mobil content deliveri network internet vehicl surpris past two stage machin learn approach tempor robust text classif factor associ weight chang onlin weight manag communiti case studi loseit reddit communiti character video audienc advertis youtub channel kid character load balanc ipv6 internet antagon also flow retweet impact context quot opinion polar analysi provid consum anomali detect healthcar system enhanc epidemiolog model dengu fever base twitter data privaaa privaci approach distribut cloud base data analyt platform lemonad scalabl effici spark base platform data analyt experiment evalu crowdsourc character data visual techniqu effici gaussian process base infer model spatio tempor dengu fever portinari data explor tool person cervic cancer screen
-regionalização dos conteúdo de um curso de especialização em saúd da família distância experiência da universidad aberta sistema único de saúd una sus ufcspa em porto alegr brasil
 practic evalu static analysi tool cryptographi benchmark method case studi
 genotyp environ interact yearl weight nellor cattl appli reaction norm model identif genom region relat tender nellor beef cattl genet correl growth reproduct perform beef femal depend environ genom region pathway associ gastrointestin parasit resist santa inê breed adapt tropic climat proteom chang bovin muscl base ultim ph age identif genom region relat ph nelor beef cattl influenc heat shock protein activ beef tender age genet associ high frequenc dark firm dri meat brazilian nellor beef cattl
 new approach minim border effect terrestri laser scan mosi multi outcrop share interpret system digit field book geoscienc
@@ -2776,7 +2713,6 @@ rve base multiscal model method constitut relat precondit augment lagrangian for
 multipl sequenc align use hybrid parallel comput new genom similar measur base conserv gene adjac
 hybrid evolutionari algorithm task schedul data assign data intens scientif workflow cloud
 loss control ethanol consumpt differenti transcript regul prefront cortex express profil gene potenti associ adequ glycem control patient type diabet mellitus
-pedagog use internet thing virtual world encourag behavior chang obes individu use sensor virtual world obes control immers learn research network emprego de um softwar baseado em mineração de texto apresentação gráfica multirrepresentacion como apoio aprendizagem de conceito científico partir de texto ensino fundament evalu usabl playabl exergam execut function stimul develop process
 optim class inform diverg transduct classif text use propag bipartit graph survey applic bayesian network agricultur use bipartit heterogen network speed induct semi supervis learn improv automat text categor reconstruct uncertain pedestrian trajectori low sampl rate observ one mode project base multilevel approach communiti detect bipartit network approach base tree structur classifi protein fold predict rgcli robust graph consid label instanc semi supervis learn
 empow applic rfc 6897 manag eleph flow datacent network
 enhanc associ mechan ieee 802154 network superfram durat alloc scheme improv throughput cluster tree wireless sensor network temperatur depend batteri model wireless sensor network ct sim simul model wide scale cluster tree network base ieee 802154 zigbe standard altern path communic wide scale cluster tree wireless sensor network use inact period reliabl data dissemin protocol vanet traffic safeti applic estim lifetim wireless sensor network node use embed analyt batteri model
@@ -2868,8 +2804,6 @@ diagrammat represent entiti mereotopolog relat ontolog
 studi neural network model appli natur languag infer
 learn challeng teach crosscut theme educ young peopl adult
 cc integr choquet like copula base aggreg function applic fuzzi rule base classif system ql oper ql implic function construct tupl ogn generat fuzzi subsethood entropi measur analyz behavior cc integr fuzzi rule base classif system general interv valu owa oper interv weight deriv interv valu overlap function two player interv valu fuzzi bayesian game interv valu implic interv valu strong equal index admiss order definit penalti function data aggreg new result pre aggreg function introduc light pre norm penalti function construct ql subsethood measur definit concept pre conorm global distribut approach chi et al fuzzi rule base classif system big data classif problem contact dedupl mobil devic use textual similar machin learn fuzzi approach analys similar web stream user analyz behavior aggreg pre aggreg function fuzzi rule base classif system data complex measur
-optim number evalu earli blight diseas tomato access use artifici neural network eficiência da estimação da área foliar de couv por meio de rede neurai artificiai architectur divers gall insect caryocar brasiliens tree
-rentabilidad em banco múltiplo cooperativa de crédito brasileiro
 layer model ai govern everyth disagre fakenew correl polit polar spread misinform character video audienc advertis youtub channel kid
 bias random key genet algorithm open dimens nest problem use fit raster
 bridg gap decis make emerg big data sourc applic model base framework disast manag brazil
@@ -2887,7 +2821,6 @@ model comprehens secur risk assess empir comparison tabular vs graphic represent
 lightn predict use satellit atmospher sound data feed forward artifici neural network
 analyt model parabol trough solar thermal power plant
 toward develop affect facial express recognit human robot interact automat detect human interact rgb data social activ classif affect facial express recognit human robot interact toward multimod affect express merg facial express bodi motion emot
-framework spatial analyt use heterogen data sourc
 open sourc tool integr product inform forest area studi case spatial analysi forest fragment rio grand sul state brazil forest cover analysi weight evid method campanha ocident region rs brazil analysi fragment atlant forest area influenc hydroelectr plant rio grand sul brazil
 program literaci empir studi design base vs tradit approach capston cours engin educ
 reliabl analysi iot base smart park applic smart citi librari schedul lightweight thread internet thing microcontrol iot base smart park smart citi
@@ -2905,7 +2838,6 @@ note definit slide block code curti hedlund lyndon theorem invers semigroup shif
 synthesi character antibacteri properti pbmoo nanocryst nacemoo microcryst hydrotherm synthesi character photocatalyt perform low temperatur raman spectra methylbenzylamino nitropyridin crystal raman spectroscopi aminobutyr acid high pressur biaxial strain transfer support graphen
 autom systemat map ad qualiti quantiti
 high direct koch fractal vivaldi antenna design medic near field microwav imag applic
-volum estim log southern brazil use artifici intellig model geostatist model timber volum spatial variabl tectona grandi precis forestri efeito da qualidad sítio desbast na produção de pinus edg effect tree communiti araucaria forest fragment brazil
 vinass fertirrig alter soil resistom dynam analysi base metagenom profil use metagenom connect microbi communiti biodivers function
 paramet estim lithium ion polym batteri mathemat model use genet algorithm
 altern mathemat model solut approach lot size schedul problem breweri industri analyz two differ situat
@@ -2939,7 +2871,6 @@ robust emot recognit occlud facial express syndrom detect base facial featur use
 automat featur select supervis learn link predict applic compar studi
 trust good control better hardwar base instruct replac reliabl processor ip
 sound conform test cyber physic system theori implement simul hybrid system natur languag requir generat sound test suit adapt sampl hybrid automata model process sound conform test cyber physic system
-multi domain role activ model
 energi awar scheme 3d hevc depth map predict real time scalabl hardwar architectur 3d hevc bipartit mode cach memori energi effici explor hevc motion estim energi effici motion estim approxim arithmet fast low power hardwar design hevc fraction motion estim multipl earli termin scheme tz search algorithm base data mine decis tree rate complex awar code scheme fix camera video base region interest detect low area scalabl hardwar architectur dmm encod 3d hevc video code standard edg awar depth motion estim complex reduct scheme 3d hevc high throughput hevc intrapictur predict hardwar design target uhd 8k video depth model mode complex control system 3d hevc video encod multiplierless parallel hevc quantize hardwar real time uhd 8k video code low power high throughput hardwar design 3d hevc depth intra skip complex reduct mode reduct rd list intra frame predict 3d hevc depth map character energi consumpt softwar hevc encod hm vs x265 energi evalu hevc decod differ encod configur high speedup tile algorithm parallel hevc encod complex reduct 3d hevc base depth analysi background roi classif
 model polit system support trust process
 perform analysi burst transmiss mechan use microsleep oper green ieee 80211 wlan energi awar map live migrat virtual network impact preambl prioriti awar downlink control signal schedul lte lte network perform rout spectrum core modul level assign algorithm protect sdm optic network class servic fog comput share spectrum straddl cycl fipp protect two simultan failur sdm elast optic network alloc control resourc preambl prioriti awar human machin type communic lte advanc network fulli distribut advanc traffic manag system base opportunist content share inscrib rectangl algorithm rout core spectrum assign sdm optic network redund placement virtual network function lte evolv multimedia broadcast multicast servic algorithm share path protect space divis multiplex elast optic network version awar qoe orient strategi adapt bitrat stream
@@ -2982,7 +2913,6 @@ evalu model access logic reason
 methodolog qualiti assess highway oper base govern best practic emphasi toll collect ecosystem
 simul base analysi supplier manufactur relationship lean suppli chain
 adiponectin retino acid receptor respond peroxisom prolifer activ receptor coativ gene risk obes clinic profil associ lrrk2 gba mutat brazilian parkinson diseas
-aero adapt emerg request optim cdn p2p live stream
 schedul node underwat network use voronoi diagram model analysi simul wireless power transfer mobil matrix multihop address alloc rout mobil 6lowpan cgr central base green rout low power lossi network
 two dimension fractur model general extend finit element method object orient program approach numer analysi main crack interact micro defect inhomogen use two scale general extend finit element method high regular partit uniti structur physic non linear analysi comput framework two scale general extend finit element method generic imposit boundari condit
 open geodata support agricultur research
@@ -3004,7 +2934,6 @@ fulli distribut advanc traffic manag system base opportunist content share traff
 recogn intent free text messag studi portugues languag use comput artifact support deaf learn approach base direct way methodolog enhanc creation detect rule malici softwar ontolog crowdsourc
 experiment comparison approach check complet test suit finit state machin
 connect ofciti technolog innov smart citi project invit effici ia rmlsa algorithm transpar elast optic network effici architectur dynam middlebox polici enforc sdn network
-substructur simul relativist jet format oscilador harmônico uma anális via séri de fourier
 autonom byzantin replic intrus toler cyber physic system secur iot base cyber physic human system collabor attack
 examin multi legend chang detect amazon pixel region base method examin spatial distribut dynam chang urban land cover brazilian amazon use multitempor multisensor high spatial resolut satellit imageri assess occurr cyanobacteri bloom larg brazilian reservoir use satellit remot sens
 lmo1 synerg mycn promot neuroblastoma initi metastasi conserv dna methyl combin differenti frontal cortex cerebellar express distinguish c9orf72 associ sporad al implic serpina1 diseas
