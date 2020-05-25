@@ -1,5 +1,6 @@
 from script_functions import create_embedding_models, generate_topics
 import os
+
 DATASETS = {
     '2017lattes': 78432,
     '2016lattes': 85709,
@@ -12,9 +13,9 @@ DATASETS = {
 
 # Paths and files paths
 MAIN_PATH='/home/cecilio/Projetos/cluwords-lattes'
-EMBEDDING_RESULTS = 'word2vec_lattes'
+EMBEDDING_RESULTS = 'w2v_lattes'
 PATH_TO_SAVE_RESULTS = '{}/clulattes/{}/results'.format(MAIN_PATH, EMBEDDING_RESULTS)
-PATH_TO_SAVE_MODEL = '{}/clulattes/{}/datasets/gn_w2v_models'.format(MAIN_PATH, EMBEDDING_RESULTS)
+PATH_TO_SAVE_MODEL = '{}/clulattes/{}/datasets/w2v_models'.format(MAIN_PATH, EMBEDDING_RESULTS)
 DATASETS_PATH = '{}/data'.format(MAIN_PATH)
 CLASS_PATH = ''
 HAS_CLASS = False
@@ -22,7 +23,7 @@ EMBEDDINGS_FILE_PATH = '{}/models/word2vec.model'.format(DATASETS_PATH)
 EMBEDDINGS_BIN_TYPE = True
 DATASET = '2017lattes'
 N_THREADS = 4
-N_COMPONENTS = 7
+N_COMPONENTS = 20
 ALGORITHM_TYPE = 'knn_cosine'
 
 # Creates directories if they don't exist
@@ -30,7 +31,7 @@ try:
     os.mkdir('{}/clulattes/{}'.format(MAIN_PATH, EMBEDDING_RESULTS))
     os.mkdir('{}/clulattes/{}/results'.format(MAIN_PATH, EMBEDDING_RESULTS))
     os.mkdir('{}/clulattes/{}/datasets'.format(MAIN_PATH, EMBEDDING_RESULTS))
-    os.mkdir('{}/clulattes/{}/datasets/gn_w2v_models'.format(MAIN_PATH, EMBEDDING_RESULTS))
+    os.mkdir('{}/clulattes/{}/datasets/w2v_models'.format(MAIN_PATH, EMBEDDING_RESULTS))
 except FileExistsError:
     pass
 

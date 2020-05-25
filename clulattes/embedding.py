@@ -95,4 +95,7 @@ class CreateEmbeddingModels:
         return documents
 
     def _make_dir(self, path_to_save_model):
-        os.system('mkdir ' + path_to_save_model)
+        try:
+            os.mkdir('{}'.format(path_to_save_model))
+        except FileExistsError:
+            pass

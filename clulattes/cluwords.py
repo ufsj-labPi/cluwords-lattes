@@ -4,6 +4,8 @@ import numpy as np
 from scipy.sparse import csr_matrix
 from sklearn.feature_extraction.text import CountVectorizer
 
+warnings.filterwarnings('ignore')
+
 from alfa_algorithms import AlfaKnn
 
 
