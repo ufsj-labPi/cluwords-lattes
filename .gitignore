@@ -3,7 +3,6 @@
 .ipynb_checkpoints/
 __pycache__/
 
-corpus.csv
 w2v_lattes/
 cluwords.npz
 one_hot_topics*
