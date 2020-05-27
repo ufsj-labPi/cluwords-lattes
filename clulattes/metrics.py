@@ -64,7 +64,8 @@ class Evaluation:
 
         for t in range(len(topic)):
             topico = topic[t]
-            top_w = topico.split(" ")
+            #top_w = topico.split(" ")
+            top_w = topico
 
             coherence_t = 0.0
             for i in range(1, len(top_w)):
@@ -192,7 +193,8 @@ class Evaluation:
         values = []
 
         for topic in topics:
-            words = topic.split(' ')
+            words = topic
+            #words = topic.split(' ')
             value = Evaluation._calc_dist_2(words, model, distance_type, t)
             values.append(value)
 

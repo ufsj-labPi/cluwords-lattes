@@ -2,10 +2,10 @@ from script_functions import create_embedding_models, generate_topics
 import os
 
 DATASETS = {
-    '2017lattes': 78432,
-    '2016lattes': 85709,
-    '2015lattes': 94285,
-    '2014lattes': 94797,
+    '2017_lattes': 78432,
+    '2016_lattes': 85709,
+    '2015_lattes': 94285,
+    '2014_lattes': 94797,
 }
 
 # wpp_slice_2 11
